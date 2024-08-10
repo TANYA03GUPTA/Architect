@@ -1,0 +1,153 @@
+.body-main {
+  margin: 5vh 3vw;
+  font-family: "Times New Roman", Times, serif;
+  color: #193c5a;
+}
+.header {
+  text-align: center;
+  padding: 5px 15vw;
+  font-size: 1.2rem;
+}
+.header h2 {
+  color: rgba(216, 137, 40, 0.888);
+  font-size: 2.3rem;
+  font-weight: 600;
+}
+.colcontainer {
+  margin: 6vh 12vw;
+}
+.custom-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Create 3 equal-width columns */
+  /* Adjust space between grid items */
+  text-align: center;
+}
+
+.grid-item {
+  background-color: #f8f9fa; /* Optional: Add a background color for better visibility */
+  padding: 20px; /* Optional: Add some padding */
+  border: 1px solid #dee2e6; /* Optional: Add a border */
+  border-radius: 5px; /* Optional: Add border radius */
+  color: #f8f9fa;
+}
+.grid-item img {
+  width: 80px;
+  height: 55px;
+}
+
+.grid-item h3 {
+  font-weight: bold; /* Makes the heading bold */
+  padding-bottom: 4vh;
+}
+
+.grid-item p {
+  font-weight: normal; /* Adjust as needed */
+  padding-left: 1vw;
+  padding-right: 1vw;
+  padding-bottom: 1.5vh;
+}
+.box1 {
+  background-color: #193c5a;
+}
+.box2 {
+  background-color: #e4ecf1;
+  color: #3972a7;
+}
+.box3 {
+  background-color: #3972a7;
+}
+.plans {
+  text-align: center;
+  margin-top: 1.5vh;
+  padding-bottom: 2vh;
+}
+.plans h2 {
+  color: rgba(216, 137, 40, 0.888);
+  font-size: 2.3rem;
+  font-weight: 600;
+}
+.txt {
+  margin: 3vh 6.4vw;
+}
+.txt p {
+  font-size: 1rem;
+}
+.txt h3 {
+  color: #193c5a;
+  font-size: 1.8rem;
+}
+.text-image-container {
+  margin: 3vh 3vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text-section {
+  flex: 0 0 60%; /* Takes 40% of the container width */
+  padding: 20px;
+
+  padding-right: 40px;
+  text-align: left;
+}
+.text-section p {
+  padding-right: 3.6vw;
+  text-align: justify;
+}
+.text-section button {
+  margin-left: 0.5vw;
+}
+.text-section2 p {
+  padding-left: 3.2vw;
+  text-align: justify;
+}
+.text-section2 button {
+  margin-right: 0.5vw;
+}
+
+.image-section {
+  flex: 0 0 40%; /* Takes 60% of the container width */
+}
+
+.image {
+  width: 100%; /* Makes the image responsive */
+  height: auto;
+  border-radius: 8px;
+}
+
+h3 {
+  font-size: 1.5rem; /* Adjust size as needed */
+  font-weight: bold;
+}
+
+.contact-button {
+  background-color: rgb(43, 56, 169); /* Red background for the button */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.contact-button:hover {
+  background-color: rgb(18, 31, 125); /* Darker red on hover */
+}
+.image-text-container {
+  margin: 3vh 3vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.image-section2 {
+  padding-right: 40px;
+  flex: 0 0 40%;
+}
+.text-section2 {
+  flex: 0 0 60%; /* Takes 40% of the container width */
+  padding: 20px;
+  text-align: right;
+}
+.gallery {
+  margin: 3vh 6.4vw;
+}

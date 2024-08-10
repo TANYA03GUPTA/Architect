@@ -1,0 +1,39 @@
+.navheader {
+  color: #ffffff;
+  position: relative;
+  background: #193c5a;
+  z-index: 1500;
+  display: grid;
+  grid-template-columns: 32% 68%;
+  align-items: center;
+  padding: 10px 15px;
+  box-sizing: border-box;
+
+  top: 0;
+  left: 0;
+}
+.navbar-logo {
+  height: 30px;
+  margin-right: 10px;
+}
+
+.navContainer {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.list-menu {
+  list-style: none;
+  padding: 0px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 32px;
+
+  margin: 0;
+  font-weight: bold;
+}
+.right {
+  margin-left: 35%;
+}

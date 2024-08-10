@@ -1,0 +1,65 @@
+.contact-container {
+  padding: 0% 2rem;
+  margin-top: 0%;
+  margin-bottom: 3vh;
+  margin: 1.8% 6vw;
+  margin-bottom: 0%;
+}
+
+.contact-form {
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+.contact-form h2 {
+  margin-bottom: 1.5rem;
+  font-size: 4.4rem;
+  font-family: "Times New Roman", Times, serif;
+  color: rgba(216, 137, 40, 0.888);
+}
+.contact-form p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.2em;
+}
+
+.contact-form .form-group {
+  margin-bottom: 1rem;
+}
+
+.contact-form .form-control {
+  border-radius: 4px;
+}
+
+.contact-whatsapp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
+
+  border-radius: 8px;
+}
+
+.contact-whatsapp h2 {
+  margin-bottom: 1rem;
+}
+
+.contact-whatsapp p {
+  margin-bottom: 1.5rem;
+}
+
+.contact-whatsapp .btn-success {
+  font-size: 1.1rem;
+}
+form {
+  padding: 0 4vw;
+  padding-right: 6vw;
+}
+.contact-whatsapp {
+  padding: 0 3vw;
+  text-align: center;
+}
+.contact-whatsapp p {
+  padding: 0 5%;
+}
