@@ -1,4 +1,3 @@
-import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 import TopInfo from "./Components/TopInfo";
 import Body from "./Components/Body";
