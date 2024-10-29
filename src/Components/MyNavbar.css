@@ -1,0 +1,10 @@
+.navbar {
+  height: 7vh;
+  background-color: #0d2a44;
+  padding-bottom: 12px;
+}
+.container {
+  margin-top: 5px;
+  padding-top: 10px;
+  background-color: #0d2a44;
+}

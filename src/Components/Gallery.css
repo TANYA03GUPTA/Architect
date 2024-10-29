@@ -1,0 +1,11 @@
+.gallery-container {
+  padding: 20px;
+}
+
+.gallery-card {
+  margin-bottom: 20px;
+}
+
+.gallery-card img {
+  border-radius: 8px; /* Optional: Adds rounded corners to images */
+}

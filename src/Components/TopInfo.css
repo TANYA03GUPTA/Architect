@@ -1,0 +1,38 @@
+.containerTp {
+  display: grid;
+  grid-template-columns: 70% 30%;
+  gap: 25px;
+  margin-top: 5%;
+  margin-bottom: 2vh;
+  margin: 5% 6vw;
+}
+
+.text-part {
+  margin-left: 5%;
+  text-align: right;
+  display: flex;
+  justify-content: space-between;
+  padding: 1.4vh 0%;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+.text-part h1 {
+  font-size: 5.4rem;
+
+  color: rgba(216, 137, 40, 0.888);
+}
+.text-part h2 {
+  font-size: 4.4rem;
+  color: rgba(216, 137, 40, 0.888);
+}
+.text-part h3 {
+  font-size: 2.5rem;
+  color: rgba(25, 71, 123, 0.888);
+}
+.text-part p {
+  padding-left: 2.2vw;
+  font-weight: 480;
+  font-size: 1.1rem;
+  color: rgba(25, 71, 123, 0.955);
+  text-align: right;
+}
