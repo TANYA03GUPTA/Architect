@@ -1,5 +1,5 @@
 import "./Contact.css";
-import { Container, Row, Col, Button } from "react-bootstrap";
+import {  Row, Col, Button } from "react-bootstrap";
 import Swal from "sweetalert2";
 
 export default function Contact() {
