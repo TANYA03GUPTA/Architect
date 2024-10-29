@@ -25,7 +25,7 @@ export default function Navbar2() {
             <Nav.Link href="/">About</Nav.Link>
             <Nav.Link href="#designs">Designs</Nav.Link>
             <Nav.Link href="#collections">Collections</Nav.Link>
-            <Nav.Link href="contact">Contact Us</Nav.Link>
+            <Nav.Link href="/contact">Contact Us</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
