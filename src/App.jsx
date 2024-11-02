@@ -21,8 +21,9 @@ function App() {
               </>
             }
           />
+            {/*
           <Route path="/contact" element={<Contact />} />
-          {/*
+        
       <TopInfo />
       <Body />
           <Contact />*/}
