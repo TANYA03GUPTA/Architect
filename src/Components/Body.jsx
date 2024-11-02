@@ -1,5 +1,6 @@
 import "./Body.css";
 import Gallery from "./Gallary";
+import Contact from "./Contact";
 export default function Body() {
   return (
     <div className="body-main" id="designs">
@@ -116,6 +117,7 @@ export default function Body() {
       <section className="gallery">
         <Gallery />
       </section>
+      <Contact />
     </div>
   );
 }
